@@ -1,4 +1,4 @@
-# Loss-aware-Binarization
+# Loss-Aware-Binarization
 Implementation of paper "Loss aware Binarization of Deep Networks"
 
 This repository is divided in two subrepositories:
