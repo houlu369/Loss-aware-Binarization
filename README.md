@@ -13,10 +13,10 @@ This software is implemented on top of the implementation of [BinaryConnect](htt
 
 Example training command on War and Peace dataset:
 - training LAB
-```python
+```sh
 python warpeace.py --method="LAB" --lr_start=0.002 --w="w" --len=100
 ```
 - training LAB2
-```python
+```sh
 python warpeace.py --method="LAB" --lr_start=0.002 --w="wa" --len=100
 ```
