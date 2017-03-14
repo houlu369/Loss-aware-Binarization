@@ -8,7 +8,7 @@ FNN: enables the reproduction of the FNN results(on MNIST, CIFAR, SVHN)reported 
 RNN: enables the reproduction of the RNN results(on War and Peace) reported in the article
 
 Requirements
-This software is implemented on top of the implementation of (BinaryConnect)[https://github.com/MatthieuCourbariaux/BinaryConnect] and has all the same requirements. 
+This software is implemented on top of the implementation of [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) and has all the same requirements. 
 
 
 Example training command on War and Peace dataset:
