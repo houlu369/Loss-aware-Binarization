@@ -1,4 +1,4 @@
-# Loss-aware-Binaryzation
+# Loss-aware-Binarization
 Implementation of paper "Loss aware Binarization of Deep Networks"
 
 
