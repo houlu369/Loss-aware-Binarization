@@ -1,7 +1,6 @@
 # Loss-aware-Binarization
 Implementation of paper "Loss aware Binarization of Deep Networks"
 
-
 This repository is divided in two subrepositories:
 
 - FNN: enables the reproduction of the FNN results(on MNIST, CIFAR, SVHN)reported in the article
