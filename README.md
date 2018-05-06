@@ -1,11 +1,11 @@
 # Loss-Aware-Binarization
-Implementation of paper "Loss aware Binarization of Deep Networks"
+Implementation of ICLR 2017 paper "Loss aware Binarization of Deep Networks"
 
 This repository is divided in two subrepositories:
 
-- FNN: enables the reproduction of the FNN results(on MNIST, CIFAR, SVHN)reported in the article
+- FNN: enables the reproduction of the FNN results(on MNIST, CIFAR-10, SVHN)reported in the article
 
-- RNN: enables the reproduction of the RNN results(on War and Peace) reported in the article
+- RNN: enables the reproduction of the RNN results(on War and Peace, Linux Kernel) reported in the article
 
 Requirements
 This software is implemented on top of the implementation of [BinaryConnect](https://github.com/MatthieuCourbariaux/BinaryConnect) and has all the same requirements. 
