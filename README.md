@@ -1,5 +1,5 @@
 # Loss-Aware-Binarization
-Implementation of ICLR 2017 paper "Loss aware Binarization of Deep Networks", tested with python 2.7, theano 0.9.0 and  lasagne 0.2.dev1
+Implementation of ICLR 2017 paper "Loss aware Binarization of Deep Networks", tested with python 2.7, theano 0.9.0 and  lasagne 0.2.dev1.
 
 This repository is divided in two subrepositories:
 
