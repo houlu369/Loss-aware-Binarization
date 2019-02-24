@@ -20,3 +20,28 @@ python warpeace.py --method="LAB" --lr_start=0.002 --w="w" --len=100
 ```sh
 python warpeace.py --method="LAB" --lr_start=0.002 --w="wa" --len=100
 ```
+
+If you find loss-aware weight quantization useful in your research, please consider citing the the paper
+```sh
+
+@InProceedings{hou2017loss,
+	title={Loss-aware Binarization of Deep Networks},
+	author={Hou, Lu and Yao, Quanming and Kwok, James T.},
+	booktitle={International Conference on Learning Representations},
+	year={2017}
+}
+
+@InProceedings{hou2018loss,
+	title={Loss-aware Weight Quantization of Deep Networks},
+	author={Hou, Lu and Kwok, James T.},
+	booktitle={International Conference on Learning Representations},
+	year={2018}
+}
+
+@InProceedings{hou2019analysis,
+	title={Analysis of Quantized Models},
+	author={Hou, Lu and Zhang, Ruiliang and Kwok, James T.},
+	booktitle={International Conference on Learning Representations},
+	year={2019}
+}
+```
